@@ -25,4 +25,13 @@ Microsoft Excel (Data Cleaning and Preparation)
 
 ### Key Takeaways
 
+- In general, the total sales have increased from 2019 to 2021, with a slight dip in 2020. Although the sales in 2022 show that they are significantly lower than in all the previous years, we cannot consider 2022 in our analysis as the data I have for 2022 is incomplete, stopping at the 3rd quarter. 
+
+- From 2019 to 2020, Excelsa was the most popular coffee, but its sales have dipped in 2021. In 2021, Arabica was the most popular coffee, and its 2021 sales were the highest as compared to other coffees in the different years. 
+
+- Light roast coffee is the favourite type of coffee roast, making $17354, while dark roast coffee is the least favoured type of roast, making $13180.
+
+- Throughout the years, the Sales from the United States have always been the highest amount among the 3 countries, leading the remaining countries by a huge amount. This is followed by Ireland and United Kingdom.
+
+- Throughout the years, the highest spender was Allis Wilmore ($317), followed by Brenn Dundredge($307), Terri Farra($289), Nealson Cuttler($282), and Don Flintiff($278)
 
